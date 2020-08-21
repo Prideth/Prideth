@@ -111,7 +111,8 @@ Hochschule für Technik und Wirtschaft des Saarlandes, Saarbrücken
 * Trainer for aptitude certificate IHK Saarland (02.2015)
 * Successful conduct of difficult employee reviews (07.2013)
 
-## Further skills:  Leadership techniques, team manager, mentor, motivator, coaching
+## Further skills: 
+* Leadership techniques, team manager, mentor, motivator, coaching
 * Kanban, Scrum, requirement analysis user experience, UI / UX design, usability, gamification
 * Project management
 * Domain-driven design, software asset management. Reactive programming, architecture reviews
