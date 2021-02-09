@@ -28,7 +28,23 @@ marital status:  free
 # Professional Experience
 
 ## Senior software engineer, mentor, trainer 
-**01.2019 -- present**
+**01.2021 -- present**
+
+Adesso SE, Essen
+* Trainer for Java Server Faces, UX and insure faces
+* Component responsible for surfaces
+* Contact person for product developers in the field of frontend, JavaEE and insure architecture
+* Innovation driver
+* Framework developer
+* Kanban / retrospective organizer
+* Motivator
+* Mentor
+ * Supporting colleagues and students in achieving their career goals
+* Projects
+ * Insure Framework
+
+## Senior software engineer, mentor, trainer 
+**01.2019 -- 01.2021**
 
 Adesso Insurance Solutions GmbH, Dortmund
 * Trainer for Java Server Faces, UX and insure faces
