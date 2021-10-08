@@ -25,6 +25,8 @@ nationality:  german
 
 marital status:  free
 
+languages: german, english
+
 # Professional Experience
 
 ## Software architect, mentor, trainer 
