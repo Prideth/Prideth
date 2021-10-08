@@ -27,6 +27,21 @@ marital status:  free
 
 # Professional Experience
 
+## Software architect, mentor, trainer 
+**05.2021 -- present**
+
+Adesso SE, Essen
+* Trainer for Java Server Faces, UX and insure faces
+* Contact person for product developers in the field of frontend, JavaEE and insure architecture
+* Innovation driver
+* Framework developer
+* Kanban / retrospective organizer
+* Motivator
+* Mentor
+ * Supporting colleagues and students in achieving their career goals
+* Projects
+ * Westlotto, RWTüv, ON4OFF
+
 ## Senior software engineer, mentor, trainer 
 **01.2021 -- present**
 
