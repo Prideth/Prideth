@@ -28,6 +28,17 @@ marital status:  free
 languages: german, english
 
 # Professional Experience
+## Teamleader Retail, Software architect, mentor, trainer 
+**02.2022 -- present**
+Adesso SE, Essen
+* Trainer for Java Server Faces, UX and insure faces
+* Contact person for product developers in the field of frontend, JavaEE and insure architecture
+* Innovation driver
+* Motivator
+* Mentor
+ * Supporting colleagues and students in achieving their career goals
+* Projects
+ * Westlotto, RWTüv, ON4OFF
 
 ## Software architect, mentor, trainer 
 **05.2021 -- present**
