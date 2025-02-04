@@ -29,7 +29,7 @@ languages: german, english
 
 # Professional Experience
 ## Manager Digital Business Solutions, Lead Software architect 
-**02.2022 -- present**
+**02.2024 -- present**
 Exxeta AG, Mannheim
 * Project management and implementation: Managing projects to develop customer-specific software solutions using SAP BTP and CAP.
 * Technical architecture: Designing and implementing scalable and robust software architectures to support complex business processes.
