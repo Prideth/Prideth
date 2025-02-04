@@ -28,8 +28,20 @@ marital status:  free
 languages: german, english
 
 # Professional Experience
-## Teamleader Retail, Software architect, mentor, trainer 
+## Manager Digital Business Solutions, Lead Software architect 
 **02.2022 -- present**
+Exxeta AG, Mannheim
+* Project management and implementation: Managing projects to develop customer-specific software solutions using SAP BTP and CAP.
+* Technical architecture: Designing and implementing scalable and robust software architectures to support complex business processes.
+* Integration: Building and optimizing integration solutions to seamlessly connect different systems and applications.
+* Artificial intelligence: Using AI technologies to automate and optimize business processes.
+* Team leadership: Coordinating and leading interdisciplinary teams to successfully achieve project goals.
+* Innovation: Continuous development and introduction of new technologies and methods to meet the requirements of digital transformation.
+* Projects
+ * Inter Versicherung, Stadt Hagen, Ardex
+
+## Teamleader Retail, Software architect, mentor, trainer 
+**02.2022 -- 01.2024**
 Adesso SE, Essen
 * Trainer for Java Server Faces, UX and insure faces
 * Contact person for product developers in the field of frontend, JavaEE and insure architecture
@@ -41,7 +53,7 @@ Adesso SE, Essen
  * Westlotto, RWTüv, ON4OFF
 
 ## Software architect, mentor, trainer 
-**05.2021 -- present**
+**05.2021 -- 01.2024**
 
 Adesso SE, Essen
 * Trainer for Java Server Faces, UX and insure faces
@@ -56,7 +68,7 @@ Adesso SE, Essen
  * Westlotto, RWTüv, ON4OFF
 
 ## Senior software engineer, mentor, trainer 
-**01.2021 -- present**
+**01.2021 -- 01.2024**
 
 Adesso SE, Essen
 * Trainer for Java Server Faces, UX and insure faces
